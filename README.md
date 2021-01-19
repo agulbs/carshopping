@@ -1,2 +1,2 @@
 # Carshopping helper & Sh!t
-Track prices for leases of cars i want 
+## A tool to help me track prices for my next lease 
